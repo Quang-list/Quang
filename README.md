@@ -21,4 +21,4 @@ Lý do: CDN giúp giảm độ trễ, đặc biệt đối với người dùng 
 
 - Trí tuệ nhân tạo (AI) và Học máy (Machine Learning): AI và Machine Learning có thể được sử dụng để dự đoán xu hướng mua hàng dựa trên lịch sử bán hàng, giúp doanh nghiệp chuẩn bị tốt hơn cho sự tăng trưởng12.
 
-- Thực tế ảo mở rộng (AR) và Thực tế ảo (VR): AR và VR có thể cung cấp trải nghiệm mua sắm tương tác và thú vị, thu hút khách hàng và tăng doanh số bán hàng
+- Thực tế ảo mở rộng (AR) và Thực tế ảo (VR): AR và VR có thể cung cấp trải nghiệm mua sắm tương tác và thú vị, thu hút khách hàng và tăng doanh số bán hàng.
